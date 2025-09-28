@@ -1,2 +1,2 @@
-# Capturar_Coordenadas
+# Capturar Coordenadas
 Software para capturar Ordenadas e Abscissas.
